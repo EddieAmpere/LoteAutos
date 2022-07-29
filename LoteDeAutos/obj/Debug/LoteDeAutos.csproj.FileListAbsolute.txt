@@ -1,0 +1,13 @@
+C:\Users\Edson\source\repos\LoteDeAutos\LoteDeAutos\bin\Debug\LoteDeAutos.exe.config
+C:\Users\Edson\source\repos\LoteDeAutos\LoteDeAutos\bin\Debug\LoteDeAutos.exe
+C:\Users\Edson\source\repos\LoteDeAutos\LoteDeAutos\bin\Debug\LoteDeAutos.pdb
+C:\Users\Edson\source\repos\LoteDeAutos\LoteDeAutos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Edson\source\repos\LoteDeAutos\LoteDeAutos\obj\Debug\LoteDeAutos.csprojAssemblyReference.cache
+C:\Users\Edson\source\repos\LoteDeAutos\LoteDeAutos\obj\Debug\LoteDeAutos.Form1.resources
+C:\Users\Edson\source\repos\LoteDeAutos\LoteDeAutos\obj\Debug\LoteDeAutos.Properties.Resources.resources
+C:\Users\Edson\source\repos\LoteDeAutos\LoteDeAutos\obj\Debug\LoteDeAutos.csproj.GenerateResource.cache
+C:\Users\Edson\source\repos\LoteDeAutos\LoteDeAutos\obj\Debug\LoteDeAutos.csproj.CoreCompileInputs.cache
+C:\Users\Edson\source\repos\LoteDeAutos\LoteDeAutos\obj\Debug\LoteDeAutos.csproj.CopyComplete
+C:\Users\Edson\source\repos\LoteDeAutos\LoteDeAutos\obj\Debug\LoteDeAutos.exe
+C:\Users\Edson\source\repos\LoteDeAutos\LoteDeAutos\obj\Debug\LoteDeAutos.pdb
+C:\Users\Edson\source\repos\LoteDeAutos\LoteDeAutos\obj\Debug\LoteDeAutos.Login.resources
